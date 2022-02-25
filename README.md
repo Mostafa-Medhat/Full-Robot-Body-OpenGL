@@ -1,14 +1,3 @@
-### Team Members
-
-
-| Name                          | Section |  BN |
-| ----------------------------- | :-----: | --: |
-| Abdelrahman Khaled Isamail    |    1    |  50 |
-| Filopatere George AbdelMalak  |    2    |  5  |
-| Mostafa Medhat Hakim          |    2    |  32 |
-| Mohab Hesham Ahmed            |    2    |  34 |
-| Hesham Gamal Abdelhady        |    2    |  46 |
-
 # Assignment 2 :Computer Graphics Full Body Movement
 
 - the main idea of this assignment was to understand lookAt function in opengl and can control it.
